@@ -7,7 +7,8 @@
 ### Here are some ideas to get you started:
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
 - 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
-- 😄 Language: Python, C, Java, JavaScript
+- 🧑‍💻️ Language: Python, C, Java, JavaScript
+- 🗄️ Databases: SQL, MySQL, PostgreSQL, MangaDB
 - 📫 How to reach me: Developerblackheart@gmail.com
 
 <br />
@@ -43,11 +44,12 @@ Here are some ideas to get you started:
 ---
 ### 🤵 About Me:
 - 💬 Talk to me about anime, future and AI
-- 😄 Language: Python, C, Java, JavaScript
+- 😄 Favorit Language: I liked work with Python
+- 💼️ Favorit Job: Any Thing in Deep Learning
 - ⚡ Fun fact: Reliable person, job well done, honest
 
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
 
