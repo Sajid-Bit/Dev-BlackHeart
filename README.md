@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 - 💬 Talk to me about anime, future and AI
 - 😄 Language: Python, C, Java, JavaScript
 - ⚡ Fun fact: Reliable person, job well done, honest
-<br />
----
-
 
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
