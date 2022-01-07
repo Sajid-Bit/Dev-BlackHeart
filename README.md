@@ -6,6 +6,7 @@
 
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
 - 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
+- 😄 Language: Python, C, Java, JavaScript
 - 📫 How to reach me: Developerblackheart@gmail.com
 
 <br />
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 ### Languages and Tools:
 <p>
 <img align="left" alt="Python" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/99ad56b8593360076ea9b8c00cd0c47e92dc2fa4/IMG%20GIF/LMt9638dO8dftAjtco.gif" />
