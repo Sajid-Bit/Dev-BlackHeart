@@ -5,6 +5,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
+---
+
 ### Here are some ideas to get you started:
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
 - 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
@@ -13,6 +15,8 @@
 - 📫 How to reach me: Developerblackheart@gmail.com
 
 <br />
+
+---
 
 <!--
 **DeveBlackHeart/DeveBlackHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +32,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 ### Languages and Tools:
 <p align="center">
 
@@ -50,7 +54,7 @@ Here are some ideas to get you started:
 - 💼️ Favorit Job: Any Thing in Deep Learning
 - ⚡ Fun fact: Reliable person, job well done, honest
 
-<br />
+---
 
 
 ### 📊️ My Github stats:
