@@ -1,12 +1,14 @@
-### Hi there, I'm Developer - aka Black Heart 👋
-<img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif" width="29px">
-<br />
+### Hi there, I'm Developer - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/8785b7abcea0ad27afd8bbd2bd46d347e1b1e642/IMG%20GIF/Hi.gif" width="29px">
+
+![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
 - 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
 - 📫 How to reach me: Developerblackheart@gmail.com
-- 
+
+
 <!--
 **DeveBlackHeart/DeveBlackHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/99ad56b8593360076ea9b8c00cd0c47e92dc2fa4/IMG%20GIF/LMt9638dO8dftAjtco.gif" />
 
@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GitHub" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/KzJkzjggfGN5Py6nkT.gif" />
 
-
-<br />
-<br />
 
 
 
