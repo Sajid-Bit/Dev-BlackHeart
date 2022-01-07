@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### 📊️ My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=DeveBlackHeart&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&text_color=radical&bg_color=151515)](https://github.com/DeveBlackHeart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DeveBlackHeart/github-readme-stats)
 
 
 [website]: https://github.com/DeveBlackHeart
