@@ -2,6 +2,7 @@
 
 
 ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif)
+---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GitHub" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/KzJkzjggfGN5Py6nkT.gif" />
 </p>
-
+---
 
 ### 🤵 About Me:
 - 💬 Talk to me about anime, future and AI
