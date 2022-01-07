@@ -1,4 +1,5 @@
 ### Hi there, I'm Developer - aka Black Heart 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
 <!--
 **DeveBlackHeart/DeveBlackHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
