@@ -1,6 +1,11 @@
 ### Hi there, I'm Developer - aka Black Heart 👋
+<img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif" width="29px">
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
+- 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
+- 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
+- 📫 How to reach me: Developerblackheart@gmail.com
+- 
 <!--
 **DeveBlackHeart/DeveBlackHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,16 +40,8 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-
+[linkedin]: https://linkedin.com/in/
 
