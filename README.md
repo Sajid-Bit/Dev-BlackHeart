@@ -1,8 +1,8 @@
 ### Hi there, I'm Developer - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/8785b7abcea0ad27afd8bbd2bd46d347e1b1e642/IMG%20GIF/Hi.gif" width="29px">
 
-<p align="center">
+
 ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif)
-</p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
 ### Here are some ideas to get you started:
