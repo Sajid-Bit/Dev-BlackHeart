@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p align="center">
+
 <img align="left" alt="Python" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/99ad56b8593360076ea9b8c00cd0c47e92dc2fa4/IMG%20GIF/LMt9638dO8dftAjtco.gif" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/ln7z2eWriiQAllfVcn.gif" />
@@ -48,6 +49,8 @@ Here are some ideas to get you started:
 - 😄 Favorit Language: I liked work with Python
 - 💼️ Favorit Job: Any Thing in Deep Learning
 - ⚡ Fun fact: Reliable person, job well done, honest
+
+<br />
 
 
 ### 📊️ My Github stats:
