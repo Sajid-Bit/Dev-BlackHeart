@@ -35,13 +35,12 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GitHub" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/KzJkzjggfGN5Py6nkT.gif" />
 
-<per>
-###
+
 ### 🤵 About Me:
 - 💬 Talk to me about anime, future and AI
 - 😄 Language: Python, C, Java, JavaScript
 - ⚡ Fun fact: Reliable person, job well done, honest
-</per>
+
 
 
 
