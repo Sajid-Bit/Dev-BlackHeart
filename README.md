@@ -10,7 +10,12 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 --- 
 ### Accounts and websites:
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
-[![LinkedIn](https://img.shields.io/https://www.linkedin.com/in/mohammed-khalil-b62525217?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammed-khalil-b62525217)
+
+[![LinkedIn](https://img.shields.io/https://www.linkedin.com/in/mohammed-khalil-b62525217?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammed-khalil)
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Deve_BlackHeart)
+
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ---
 
