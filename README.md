@@ -2,8 +2,11 @@
 
 
 <!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
-<img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif" width="320">```python
-print("Hii")```
+<img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif" width="320"> 
+```py
+print("Hii")
+
+```
 
 --- 
 ### Accounts and websites:
@@ -98,12 +101,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-<!--
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=DeveBlackHeart&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DeveBlackHeart/github-readme-stats)-->
-
 
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
