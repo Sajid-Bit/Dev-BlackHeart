@@ -78,29 +78,15 @@ Here are some ideas to get you started:
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=scikit--learn)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=scikit_learn)&nbsp;
 
 - ⚙️ Tools:
 
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<!--
-<img align="left" alt="Python" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/99ad56b8593360076ea9b8c00cd0c47e92dc2fa4/IMG%20GIF/LMt9638dO8dftAjtco.gif" />
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/ln7z2eWriiQAllfVcn.gif" />
-
-<img align="left" alt="Databases" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/kPrlykW2TpVU4HWx2O.gif" />
-
-<img align="left" alt="Git" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/kH6CqYiquZawmU1HI6.gif" />
-
-<img align="left" alt="GitHub" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/KzJkzjggfGN5Py6nkT.gif" />
--->
 
 ---
-
-
 
 ### 🤵 About Me:
 - 💬 Talk to me about anime, future and AI
