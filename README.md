@@ -3,10 +3,6 @@
 
 ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif)
 
-<!-- https://github.com/DeveBlackHeart/DeveBlackHeart/blob/5efc1a847aa43628ea754b9010b4f1fc5b0d33b0/IMG%20GIF/Deve_BlackHeart.mp4 
-https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif--->
-
-
 --- 
 ### Accounts and websites:
 
@@ -16,20 +12,6 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](None)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
     
-<!-- <a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /> -->
-  
-<!--  
-[![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://developerblackheart@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-khalil-b62525217)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Deve_BlackHeart) 
--->
-
-
-
 ---
 
 ### Here are some ideas to get you started:
@@ -86,7 +68,9 @@ Here are some ideas to get you started:
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=scikit_learn)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
+
 
 - ⚙️ Tools:
 
