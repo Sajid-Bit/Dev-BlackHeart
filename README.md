@@ -118,8 +118,17 @@ Here are some ideas to get you started:
 
 
 ### 📊️ My Github stats:
+<p align="center">
+<a href="https://github.com/DeveBlackHeart">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeveBlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+<!--
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=DeveBlackHeart&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DeveBlackHeart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DeveBlackHeart/github-readme-stats)-->
 
 
 [website]: https://github.com/DeveBlackHeart
