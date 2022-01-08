@@ -9,7 +9,7 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 
 --- 
 ### Accounts and websites:
-
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter)](https://twitter.com/Deve_BlackHeart)&nbsp;
 <a href="https://github.com/DeveBlackHeart" target="_blank"><img align="left" alt="Black Heart" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 
 <a href="https://twitter.com/Deve_BlackHeart" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
