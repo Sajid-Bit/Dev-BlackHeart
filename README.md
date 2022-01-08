@@ -10,6 +10,7 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 --- 
 ### Accounts and websites:
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
+[![ LinkedIn](https://img.shields.io/https://www.linkedin.com/in/mohammed-khalil-b62525217?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/mohammed-khalil-b62525217)
 
 ---
 
@@ -74,4 +75,4 @@ Here are some ideas to get you started:
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/mohammed-khalil-b62525217
