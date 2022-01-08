@@ -15,7 +15,7 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 
 ![https://t.me/Deve_BlackHeart](https://img.shields.io/badge/https://Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[Gmail]
 
 
 ---
