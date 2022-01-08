@@ -9,12 +9,12 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 
 --- 
 ### Accounts and websites:
+
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter)](https://twitter.com/Deve_BlackHeart)&nbsp;
-<a href="https://github.com/DeveBlackHeart" target="_blank"><img align="left" alt="Black Heart" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-
-<a href="https://twitter.com/Deve_BlackHeart" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-
-<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedil)](https://www.linkedin.com/in/mohammed-khalil-b62525217)&nbsp;
+[![www](https://img.shields.io/badge/-www-05122A?style=flat&logo=www)](https://github.com/DeveBlackHeart)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](None)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
     
 <!-- <a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /> -->
   
