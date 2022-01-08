@@ -1,7 +1,5 @@
 ### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/95a18ac58d0b19eae3e4e2f06fd2da6d0b87be26/IMG%20GIF/Hi.gif" width="29px" />
 
-<!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
-
 <video controls autoplay>
   <source src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/902fb9d4693ed4985b538361a0f7fdbf51142fc0/IMG%20GIF/sayalook_1446865699234713608(324P).mp4" type="video/mp4">
   Your browser does not support the video tag.
