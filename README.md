@@ -1,7 +1,8 @@
 ### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/8785b7abcea0ad27afd8bbd2bd46d347e1b1e642/IMG%20GIF/Hi.gif" width="29px">
 
 
-![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif)
+<!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
+<img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif" width="320">
 
 --- 
 ### Accounts and websites:
