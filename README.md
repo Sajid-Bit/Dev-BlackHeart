@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-  - 🧑‍💻 Language: 
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+- 🧑‍💻 Language:
+<br />
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 <!--
 <p>
