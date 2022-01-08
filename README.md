@@ -3,10 +3,7 @@
 
 <!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
 <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif" width="320"> 
-```py
-print("Hii")
-
-```
+```py print("Hii") ```
 
 --- 
 ### Accounts and websites:
