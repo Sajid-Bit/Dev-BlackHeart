@@ -11,11 +11,11 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 ### Accounts and websites:
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deve_BlackHeart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Deve_BlackHeart)
 
-[![LinkedIn](https://img.shields.io/https://www.linkedin.com/in/mohammed-khalil-b62525217?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammed-khalil)
 
-![https://t.me/Deve_BlackHeart](https://img.shields.io/badge/https://Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[Gmail]
+
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[email]
 
 
 ---
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/
 [linkedin]: https://www.linkedin.com/in/mohammed-khalil-b62525217
 [Telegram]: https://t.me/Deve_BlackHeart
-[Gmail]: developerblackheart@gmail.com
+[email]: developerblackheart@gmail.com
