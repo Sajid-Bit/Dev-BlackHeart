@@ -15,7 +15,7 @@ https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-khalil-b62525217)
 
-
+[![Twitter Follow](https://img.shields.io/linkedin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/mohammed-khalil-b62525217) 
 
 
 
