@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/95a18ac58d0b19eae3e4e2f06fd2da6d0b87be26/IMG%20GIF/Hi.gif" width="29px" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237FFFF1&lines=print(%22Hi%2C+How+are+you%3F%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237FFFF1&multiline=true&width=600&lines=print(%22Hi%2C+How+are+you%3F+I'm+looking+for+job+%F0%9F%98%B6%EF%B8%8F%22))](https://git.io/typing-svg)
 
 <!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
 
