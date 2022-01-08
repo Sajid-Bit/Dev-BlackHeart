@@ -50,7 +50,21 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 
+<!--
 <img align="left" alt="Python" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/99ad56b8593360076ea9b8c00cd0c47e92dc2fa4/IMG%20GIF/LMt9638dO8dftAjtco.gif" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/ln7z2eWriiQAllfVcn.gif" />
@@ -60,7 +74,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/kH6CqYiquZawmU1HI6.gif" />
 
 <img align="left" alt="GitHub" width="30px" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/d96171818ed81344f4b5b64b3d877636cb128f21/IMG%20GIF/KzJkzjggfGN5Py6nkT.gif" />
-
+-->
 
 ---
 
