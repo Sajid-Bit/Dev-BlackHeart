@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 - 🗄️ Databases:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgres)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
