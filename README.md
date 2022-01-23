@@ -5,9 +5,23 @@
 
 <!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
 
-<img align="center" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" />
+<img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="320" />
 
+```py
+BlackHeart = {
+	"Contact": "Developerblackheart@gmail.com",
+	"Code": ["Python", "JavaScript", "C", "Java", "SQL"],
+	"learning": ["Data Science", "ML/DL", "Web Deve"],
+	"Skills": {
+		"Back-End": "Django",
+		"Databases": ["MySQL", "PostgreSQL", "SQLite", "MangoDB"],
+		"DS/ML/DL": ["NumPy", "Pandas", "Scipy", "TensoFlow", "OpenCV"],
+		"Tools": ["Github", "Git", "Jupyter"]
+	}
+}
+```
 <!-- width="320"
+center
 ```python
 print("Hi")
 
