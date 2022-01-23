@@ -5,7 +5,7 @@
 
 <!-- ![BlackHeart](https://github.com/DeveBlackHeart/DeveBlackHeart/blob/9cac726626cdc640a114525696d2a4180d4df594/IMG%20GIF/max.gif) -->
 
-<img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="400" height="250" />
+<img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="400" height="245" />
 
 ```py
 BlackHeart = {
@@ -18,6 +18,7 @@ BlackHeart = {
 		"DS/ML/DL": ["NumPy", "Pandas", "Scipy", "TensoFlow", "OpenCV"],
 		"Tools": ["Github", "Git", "Jupyter"]
 	}
+	
 }
 
 ```
