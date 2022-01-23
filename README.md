@@ -11,7 +11,7 @@
 BlackHeart = {
 	"Contact": "Developerblackheart@gmail.com",
 	"Code": ["Python", "JavaScript", "C", "Java", "SQL"],
-	"learning": ["Data Science", "ML/DL", "Web Deve"],
+	"Learning": ["Algorithm and Data Structure", "Data Science", "ML/DL", "Web Deve"],
 	"Skills": {
 		"Back-End": "Django",
 		"Databases": ["MySQL", "PostgreSQL", "SQLite", "MangoDB"],
@@ -40,7 +40,7 @@ while True:
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](https://discord.com/users/830227617289601025)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
     
----
+<!--
 
 ### Here are some ideas to get you started:
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
@@ -48,7 +48,7 @@ while True:
 - 🧑‍💻️ Language: Python, C, Java, JavaScript
 - 🗄️ Databases: SQL, MySQL, PostgreSQL, MangaDB
 - 📫 How to reach me: Developerblackheart@gmail.com
-
+-->
 <br />
 
 ---
