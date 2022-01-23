@@ -48,9 +48,9 @@ while True:
 - 🧑‍💻️ Language: Python, C, Java, JavaScript
 - 🗄️ Databases: SQL, MySQL, PostgreSQL, MangaDB
 - 📫 How to reach me: Developerblackheart@gmail.com
--->
-<br />
 
+<br />
+-->
 ---
 
 <!--
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MangoDB](https://img.shields.io/badge/-MangoDB-05122A?style=flat&logo=mangodb)&nbsp;
 
 - 🤖 Data Science and AI/ML/DL:
 
