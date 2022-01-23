@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/7a9963e59607d149ae871de5a62b4522b72785c5/IMG%20GIF/anime-Hi.gif" width="35px" />
+### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/7a9963e59607d149ae871de5a62b4522b72785c5/IMG%20GIF/anime-Hi.gif" width="35px" high="40px"/>
 <!--https://github.com/DeveBlackHeart/DeveBlackHeart/blob/95a18ac58d0b19eae3e4e2f06fd2da6d0b87be26/IMG%20GIF/Hi.gif-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237FFFF1&multiline=true&width=600&lines=print(%22Hi%2C+How+are+you%3F+I'm+looking+for+job+%F0%9F%98%B6%EF%B8%8F%22))](https://git.io/typing-svg)
@@ -120,13 +120,15 @@ Here are some ideas to get you started:
 
 
 ### 📊️ My Github stats:
+<details>
+	<summary>:zap: </summary>
 <p align="center">
 <a href="https://github.com/DeveBlackHeart">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeveBlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+</details>
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/
