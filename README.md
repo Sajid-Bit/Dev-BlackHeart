@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
 ### 📊️ My Github stats:
 <details>
-	<summary>:zap: </summary>
+	<summary>:zap: Github Stats</summary>
 <p align="center">
 <a href="https://github.com/DeveBlackHeart">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeveBlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -129,9 +129,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 </details>
+<!--
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/
 [linkedin]: https://www.linkedin.com/in/mohammed-khalil-b62525217
 [Telegram]: https://t.me/Deve_BlackHeart
 [email]: developerblackheart@gmail.com
+-->
