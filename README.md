@@ -9,16 +9,16 @@
 
 ```py
 BlackHeart = {
-	"Contact": "Developerblackheart@gmail.com",
-	"Code": ["Python", "JavaScript", "C", "Java", "SQL"],
-	"Learning": ["Algorithm and Data Structure", "Data Science", "ML/DL", "Web Deve"],
-	"Skills": {
-		"Back-End": "Django",
-		"Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-		"DS/ML/DL": ["NumPy", "Pandas", "Scipy", "TensoFlow", "OpenCV"],
-		"Tools": ["Github", "Git", "Jupyter"]
-	}
-	
+    "Contact": "Developerblackheart@gmail.com",
+    "Code": ["Python", "JavaScript", "C", "Java", "SQL"],
+    "Learning": ["Algorithm and Data Structure", "Data Science", "ML/DL", "Web Deve"],
+    "Skills": {
+        "Back-End": "Django",
+	"Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+	"DS/ML/DL": ["NumPy", "Pandas", "Scipy", "TensoFlow", "OpenCV"],
+	"Tools": ["Github", "Git", "Jupyter"]
+      }
+      
 }
 
 ```
