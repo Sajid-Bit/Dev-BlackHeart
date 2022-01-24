@@ -39,8 +39,6 @@ while True:
   print(True)
  
 ```
--->
-<!--
 --- 
 ### Accounts and websites:
 <p align="center">
@@ -55,10 +53,10 @@ while True:
 [![Black Heart](https://img.shields.io/badge/-website-05122A?style=flat&logo=website)](https://github.com/DeveBlackHeart)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](https://discord.com/users/830227617289601025)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
--->
+
 
 ---
-<!--
+
 ### Here are some ideas to get you started:
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
 - 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
