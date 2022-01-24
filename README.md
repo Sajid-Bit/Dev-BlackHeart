@@ -38,6 +38,8 @@ while True:
 --- 
 ### Accounts and websites:
 <p align="center">
+	<a href="https://twitter.com/Deve_BlackHeart" target="blank"><img aling="center" crs="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>&nbsp;
+	
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter)](https://twitter.com/Deve_BlackHeart)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-khalil-b62525217)&nbsp;
 [![Black Heart](https://img.shields.io/badge/-website-05122A?style=flat&logo=website)](https://github.com/DeveBlackHeart)&nbsp;
