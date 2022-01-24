@@ -24,6 +24,12 @@ BlackHeart = {
 }
 
 ```
+<p align="center">
+	<a href="https://twitter.com/Deve_BlackHeart" target="blank"><img aling="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>&nbsp;
+	<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="blank"><img aling="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Linkedin"/> </a>&nbsp;
+	<a href="https://discord.com/users/830227617289601025" target="blank"><img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> </a>&nbsp;
+	<a href="developerblackheart@gmail.com" target="blank"><img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> </a>&nbsp;
+</p>
 <!-- width="320"
 center
 ```python
@@ -34,7 +40,7 @@ while True:
  
 ```
 -->
-
+<!--
 --- 
 ### Accounts and websites:
 <p align="center">
@@ -42,14 +48,14 @@ while True:
 	<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="blank"><img aling="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Linkedin"/> </a>&nbsp;
 	<a href="https://discord.com/users/830227617289601025" target="blank"><img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> </a>&nbsp;
 	<a href="developerblackheart@gmail.com" target="blank"><img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> </a>&nbsp;
-<!--	
+</p>
+	
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter)](https://twitter.com/Deve_BlackHeart)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-khalil-b62525217)&nbsp;
 [![Black Heart](https://img.shields.io/badge/-website-05122A?style=flat&logo=website)](https://github.com/DeveBlackHeart)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](https://discord.com/users/830227617289601025)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
 -->
-</p>
 
 ---
 <!--
