@@ -37,13 +37,13 @@ while True:
 
 --- 
 ### Accounts and websites:
-
+<p align="center">
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter)](https://twitter.com/Deve_BlackHeart)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-khalil-b62525217)&nbsp;
 [![Black Heart](https://img.shields.io/badge/-website-05122A?style=flat&logo=website)](https://github.com/DeveBlackHeart)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](https://discord.com/users/830227617289601025)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
-    
+</p>    
 <!--
 
 ### Here are some ideas to get you started:
