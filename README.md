@@ -49,9 +49,10 @@ while True:
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)](https://discord.com/users/830227617289601025)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail)](developerblackheart@gmail.com)&nbsp;
 -->
-</p>  
-<!--
+</p>
 
+---
+<!--
 ### Here are some ideas to get you started:
 - 👀 I’m interested in Data Science and AI/ML/DL, Backend development, Genetics
 - 🌱 I’m currently learning Algorithm and Data Structure and Data Science and AI/ML/DL, Backend development
@@ -60,10 +61,7 @@ while True:
 - 📫 How to reach me: Developerblackheart@gmail.com
 
 <br />
--->
----
 
-<!--
 **DeveBlackHeart/DeveBlackHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
