@@ -17,10 +17,10 @@ BlackHeart = {
     "Programming Skills": {
         "Back-End": "Django",
 	"Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-	"DS/ML/DL": ["NumPy", "Pandas", "Scipy", "TensoFlow", "OpenCV"],
+	"DS/ML/DL": ["NumPy", "Pandas", "Scipy", "TensoFlow", "OpenCV", "PyTorch", "Scikit-Learn"],
 	"OS": ["Linux", "Windows"],
-	"Tools": ["Github", "Git", "Jupyter"]
-      }  
+	"Tools": ["Github", "Git"]
+    }  
 }
 
 ```
