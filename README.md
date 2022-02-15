@@ -7,7 +7,7 @@
 <Image style={{width: 380, height: 250, borderRadius: 20}}
        source={{uri: 'https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif'}}-->
 
-<a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a>
+<a href="https://github.com/Deve-BlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a>
 
 <!-- 
 <a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/dbd7615ba90e673191012d6e1b7e800405d15958/IMG%20GIF/IMG_20201211_084500_748.jpg" width="360" height="250" style="border-radius:20px;" /></a>
@@ -93,13 +93,18 @@ BlackHeart = {
 <details>
 	<summary>:zap: Github Stats</summary>
 <p align="center">
-<a href="https://github.com/DeveBlackHeart">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeveBlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveBlackHeart&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Deve-BlackHeart">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deve-BlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deve-BlackHeart&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </details>
 <!--
+ 
+
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arashi-u&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)]()
+
+https://github-readme-stats-eight-theta.vercel.app/api?username=Deve-BlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
 [website]: https://github.com/DeveBlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/
