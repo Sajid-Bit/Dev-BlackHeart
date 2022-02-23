@@ -139,15 +139,13 @@ BlackHeart = {
       </a>
       <br>Linux
     </td>
-    
     <td align="center" width="96">
       <a href="#BlackHeart-Tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-  </tr>
-    
+  </tr>  
 </table>
 
 
