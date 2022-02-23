@@ -38,44 +38,118 @@ BlackHeart = {
 
 
 ---
-### Languages and Tools:
 
-- 🧑‍💻 Language:
+<h2 align="left" id="BlackHeart-Tech">Favorite Tech</h2>
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![html5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+> Tools, languages, and other things that I like to work with.
 
 
-- 😬 BackEnd:
+<table align="center">
+  <!--1-->
+  <tr>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96"> 
+      <a href="#BlackHeart-Tech" >
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C Lang
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech" >
+        <img src=" " width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+  </tr>
 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+  <!--2-->
+  <tr>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src=" " width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src=" " width="48" height="48" alt="SciPy" />
+      </a>
+      <br>SciPy
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src=" " width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
+  </tr>
 
+  <!--3-->
+   <tr>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech" >
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mysql_icon_130379.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech" >
+        <img src=" " />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png?20130711220928" width="48" height="48" alt="SQLit" />
+      </a>
+      <br>SQLit
+    </td>
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#BlackHeart-Tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+    
+</table>
 
-- 🗄️ Databases:
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-
-- 🤖 Data Science and AI/ML/DL:
-
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numPy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
-
-
-- ⚙️ Tools:
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 
 
 ---
@@ -155,4 +229,43 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 🧑‍💻 Language:
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![html5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+
+
+- 😬 BackEnd:
+
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+
+
+- 🗄️ Databases:
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
+- 🤖 Data Science and AI/ML/DL:
+
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numPy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
+
+
+- ⚙️ Tools:
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
+
 -->
