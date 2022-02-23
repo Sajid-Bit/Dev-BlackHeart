@@ -89,7 +89,7 @@ BlackHeart = {
     </td>
     <td align="center" width="96">
       <a href="#BlackHeart-Tech">
-        <img src=" " width="48" height="48" alt="Pandas" />
+        <img src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/875d68ef7fd63e5f5b75da9b20513c3e646a2370/IMG%20GIF/898px-Pandas_mark.svg.png" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
