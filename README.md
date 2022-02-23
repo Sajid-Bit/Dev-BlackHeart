@@ -67,7 +67,7 @@ BlackHeart = {
     </td>
     <td align="center" width="96">
       <a href="#BlackHeart-Tech" >
-        <img src=" " width="48" height="48" alt="Java" />
+        <img src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/b6a458e9349f23a5f0a63972a187d1ee52620e6d/IMG%20GIF/java-59-1174952.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
@@ -95,13 +95,13 @@ BlackHeart = {
     </td>
     <td align="center" width="96">
       <a href="#BlackHeart-Tech">
-        <img src=" " width="48" height="48" alt="SciPy" />
+        <img src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/b6a458e9349f23a5f0a63972a187d1ee52620e6d/IMG%20GIF/scipy-numpy-python-scikit-learn-pip-others-8fa7fdf2d42a306ce14b770bcb4e30c4.png" width="48" height="48" alt="SciPy" />
       </a>
       <br>SciPy
     </td>
     <td align="center" width="96">
       <a href="#BlackHeart-Tech">
-        <img src=" " width="48" height="48" alt="Tensorflow" />
+        <img src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/b6a458e9349f23a5f0a63972a187d1ee52620e6d/IMG%20GIF/pngwing.com%20(1).png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>OpenCV
     </td>
@@ -123,7 +123,7 @@ BlackHeart = {
     </td>
     <td align="center" width="96">
       <a href="#BlackHeart-Tech" >
-        <img src=" " />
+        <img src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/b6a458e9349f23a5f0a63972a187d1ee52620e6d/IMG%20GIF/pngwing.com.png" />
       </a>
       <br>PostgreSQL
     </td>
