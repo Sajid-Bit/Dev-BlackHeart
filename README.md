@@ -31,6 +31,7 @@ BlackHeart = {
 
 <p align="center">
 	<a href="https://twitter.com/Deve_BlackHeart" target="blank"><img aling="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>&nbsp;
+	<a href="https://t.me/Deve_BlackHeart" target="blank"><img aling="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram" alt="Twitter"/> </a>&nbsp;
 	<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="blank"><img aling="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Linkedin"/> </a>&nbsp;
 	<a href="https://discord.com/users/830227617289601025" target="blank"><img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> </a>&nbsp;
 	<a href="developerblackheart@gmail.com" target="blank"><img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> </a>&nbsp;
