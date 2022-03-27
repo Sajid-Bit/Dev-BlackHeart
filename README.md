@@ -27,7 +27,7 @@ BlackHeart = {
     }  
 }
 ```
-<!--
+
 <p align="center">
 	<a href="https://twitter.com/Deve_BlackHeart" target="blank"><img aling="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>&nbsp;
 	<a href="https://t.me/Deve_BlackHeart" target="blank"><img aling="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram" alt="Twitter"/> </a>&nbsp;
@@ -35,13 +35,6 @@ BlackHeart = {
 	<a href="https://discord.com/users/830227617289601025" target="blank"><img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> </a>&nbsp;
 	<a href="mailto:developerblackheart@gmail.com" target="blank"><img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> </a>&nbsp;
 </p>
--->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-abdallah-51278a216/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:talaldev@protonmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arashi_u)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/talaldev_)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-2A2B40?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/_talal)
-![GitHub followers](https://img.shields.io/github/followers/talald3v?label=Follow&style=for-the-badge)
 
 
 ---
