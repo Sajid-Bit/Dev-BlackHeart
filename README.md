@@ -17,7 +17,8 @@ BlackHeart = {
     "Programming Skills": {
         "Back-End": "Django",
 	"Databases": ["MySQL", "PostgreSQL", "SQLite"],
-	"Ds/ML": ["NumPy", "Pandas", "Scipy", "Matplotlib", "Seaborn", "TensoFlow", "OpenCV", "PyTorch", "Scikit-Learn"],
+	"Ds/ML": ["NumPy", "Pandas", "Scipy", "Matplotlib", "Seaborn",
+		  "TensoFlow", "OpenCV", "PyTorch", "Scikit-Learn"],
 	"OS": ["Linux", "Windows"],
 	"Tools": ["Github", "Git"]
     }  
