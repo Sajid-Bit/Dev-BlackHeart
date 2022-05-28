@@ -9,9 +9,6 @@
 
 <a href="https://github.com/Deve-BlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a>
 
-<!-- 
-<a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/dbd7615ba90e673191012d6e1b7e800405d15958/IMG%20GIF/IMG_20201211_084500_748.jpg" width="360" height="250" style="border-radius:20px;" /></a>
--->
 ```py
 BlackHeart = {
     "Contact": "Developerblackheart@gmail.com",
@@ -26,6 +23,9 @@ BlackHeart = {
     }  
 }
 ```
+<!-- 
+<a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/dbd7615ba90e673191012d6e1b7e800405d15958/IMG%20GIF/IMG_20201211_084500_748.jpg" width="360" height="250" style="border-radius:20px;" /></a>
+-->
 
 <p align="center">
 	<a href="https://twitter.com/Deve_BlackHeart" target="blank"><img aling="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>&nbsp;
