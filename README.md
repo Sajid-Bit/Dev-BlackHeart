@@ -7,8 +7,6 @@
 <Image style={{width: 380, height: 250, borderRadius: 20}}
        source={{uri: 'https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif'}}-->
 
-<a href="https://github.com/Deve-BlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="auto" height="250" style="border-radius:20px;" /></a>
-
 ```py
 BlackHeart = {
     "Contact": "Developerblackheart@gmail.com",
@@ -23,6 +21,8 @@ BlackHeart = {
     }  
 }
 ```
+<a href="https://github.com/Deve-BlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" width="auto" height="250" style="border-radius:20px;" /></a>
+
 <!-- 
 <a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/dbd7615ba90e673191012d6e1b7e800405d15958/IMG%20GIF/IMG_20201211_084500_748.jpg" width="360" height="250" style="border-radius:20px;" /></a>
 -->
