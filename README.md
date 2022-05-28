@@ -13,7 +13,8 @@
 BlackHeart = {
     "Contact": "Developerblackheart@gmail.com",
     "Code": ["Python", "JavaScript", "C", "Java", "SQL"],
-    "Learning Now": ["Algorithm and Data Structure", "Data Science", "ML/DL", "Web Deve"],
+    "Learning Now": ["Algorithm and Data Structure", 
+    		     "Data Science", "ML/DL", "Web Deve"],
     "Programming Skills": {
         "Back-End": "Django",
 	"Databases": ["MySQL", "PostgreSQL", "SQLite"],
