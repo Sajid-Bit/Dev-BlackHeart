@@ -1,5 +1,5 @@
-### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/7a9963e59607d149ae871de5a62b4522b72785c5/IMG%20GIF/anime-Hi.gif" width="70px" />
-<!--https://github.com/DeveBlackHeart/DeveBlackHeart/blob/95a18ac58d0b19eae3e4e2f06fd2da6d0b87be26/IMG%20GIF/Hi.gif-->
+### Hi there, I'm Mohammed - aka Black Heart <img src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/7a9963e59607d149ae871de5a62b4522b72785c5/IMG%20GIF/anime-Hi.gif" width="50px" />
+<!--https://github.com/DeveBlackHeart/DeveBlackHeart/blob/95a18ac58d0b19eae3e4e2f06fd2da6d0b87be26/IMG%20GIF/Hi.gif  width="70px"-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237FFFF1&multiline=true&width=600&lines=print(%22Hi%2C+How+are+you%3F+I'm+looking+for+job+%F0%9F%98%B6%EF%B8%8F%22))](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@ height="250" style="border-radius:20px;"
 > BlackHeart
 ```
 
-<img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" alt="Deve-BlackHeart" width="320" />
+<a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/dbd7615ba90e673191012d6e1b7e800405d15958/IMG%20GIF/IMG_20201211_084500_748.jpg" width="360" height="250" style="border-radius:20px;" /></a>
 
 ```python
 BlackHeart = {
@@ -30,7 +30,8 @@ BlackHeart = {
 ```
 
 <!-- 
-<a href="https://github.com/DeveBlackHeart"><img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/dbd7615ba90e673191012d6e1b7e800405d15958/IMG%20GIF/IMG_20201211_084500_748.jpg" width="360" height="250" style="border-radius:20px;" /></a>
+<img align="left" src="https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif" alt="Deve-BlackHeart" width="320" />
+
 -->
 
 <p align="center">
