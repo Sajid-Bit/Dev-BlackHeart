@@ -14,10 +14,7 @@ height="250" style="border-radius:20px;"
 
 <!-- <a href="https://github.com/Deve-BlackHeart"><img align="left" src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/e7ae03bfc7e9aaa417fd8b0fd3dcf029c7bfee90/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a> -->
 
-
-
 https://user-images.githubusercontent.com/87325345/182738816-be831470-0f33-4c11-833a-2ec71700d31a.mp4
-
 
 
 ```python
