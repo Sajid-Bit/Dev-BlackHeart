@@ -19,15 +19,16 @@ https://user-images.githubusercontent.com/87325345/182738816-be831470-0f33-4c11-
 
 ```python
 BlackHeart = {
-    "Contact": "Developerblackheart@gmail.com",
+    "Contact": "DeveloperBlackHeart@gmail.com",
     "Code": ["Python", "JavaScript", "C", "Java", "SQL"],
     "Learning Now": ["Algorithm and Data Structure", "Data Science", "ML/DL", "Web Deve"],
     "Programming Skills": {
-        "Back-End": "Django",
+        "Back-End": ["Django"],
 	"Databases": ["MySQL", "PostgreSQL", "SQLite"],
 	"Ds/ML": ["NumPy", "Pandas", "Scipy", "Matplotlib", "Seaborn", "TensoFlow", "OpenCV", "PyTorch", "Scikit-Learn"],
 	"OS": ["Linux", "Windows"],
-	"Tools": ["Github", "Git"]
+	"Tools": ["Github", "Git"],
+	"Cloud": ["Google Cloud", "AWS"],
     }  
 }
 ```
