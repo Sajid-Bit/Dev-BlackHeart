@@ -174,6 +174,11 @@ BlackHeart = {
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [Learning SQL Part 8: SQL SELECT Statement More Query — S2](https://medium.com/@Dev-BlackHeart/learning-sql-part-8-sql-select-statement-more-query-s2-80cf5c9c1cbc?source=rss-32b275926c44------2)
+- [Learning SQL Part 7: SQL SELECT Statement — S1](https://selectfrom.dev/learning-sql-part-7-sql-select-statement-s1-b35d574169e3?source=rss-32b275926c44------2)
+- [Learning SQL Part 6: SQL INDEX and SQL Views](https://selectfrom.dev/learning-sql-part-6-index-and-sql-views-6c12ac4529d8?source=rss-32b275926c44------2)
+- [Learning SQL Part 5: SQL Constraints](https://selectfrom.dev/learning-sql-part-5-sql-constraints-b86c3cfc0b87?source=rss-32b275926c44------2)
+- [Learning SQL Part 4: ALTER TABLE](https://selectfrom.dev/learning-sql-part-4-alter-table-fe08e15b367a?source=rss-32b275926c44------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![BlackHeart's github activity graph](https://activity-graph.herokuapp.com/graph?username=Deve-BlackHeart&theme=react-dark)](https://github.com/Deve-BlackHeart)
