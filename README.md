@@ -185,7 +185,6 @@ BlackHeart = {
 ## 📊️ My Github stats
 [![BlackHeart's github activity graph](https://activity-graph.herokuapp.com/graph?username=Deve-BlackHeart&theme=react-dark)](https://github.com/Deve-BlackHeart)
 
-### 📊️ My Github stats:
 <details>
 	<summary>:zap: Github Stats</summary>
 <p align="center">
