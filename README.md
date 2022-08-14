@@ -180,7 +180,9 @@ BlackHeart = {
 - [Learning SQL Part 5: SQL Constraints](https://selectfrom.dev/learning-sql-part-5-sql-constraints-b86c3cfc0b87?source=rss-32b275926c44------2)
 - [Learning SQL Part 4: ALTER TABLE](https://selectfrom.dev/learning-sql-part-4-alter-table-fe08e15b367a?source=rss-32b275926c44------2)
 <!-- BLOG-POST-LIST:END -->
+---
 
+## 📊️ My Github stats
 [![BlackHeart's github activity graph](https://activity-graph.herokuapp.com/graph?username=Deve-BlackHeart&theme=react-dark)](https://github.com/Deve-BlackHeart)
 
 ### 📊️ My Github stats:
