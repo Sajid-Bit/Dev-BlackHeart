@@ -12,7 +12,7 @@ height="250" style="border-radius:20px;"
 > BlackHeart
 ```
 
-<!-- <a href="https://github.com/Deve-BlackHeart"><img align="left" src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/e7ae03bfc7e9aaa417fd8b0fd3dcf029c7bfee90/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a> -->
+<!-- <a href="https://github.com/Dev-BlackHeart"><img align="left" src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/e7ae03bfc7e9aaa417fd8b0fd3dcf029c7bfee90/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a> -->
 
 https://user-images.githubusercontent.com/87325345/182738816-be831470-0f33-4c11-833a-2ec71700d31a.mp4
 
@@ -183,12 +183,12 @@ BlackHeart = {
 ---
 
 ## 📊️ My Github stats
-[![BlackHeart's github activity graph](https://activity-graph.herokuapp.com/graph?username=Deve-BlackHeart&theme=react-dark)](https://github.com/Deve-BlackHeart)
+[![BlackHeart's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dev-BlackHeart&theme=react-dark)](https://github.com/Dev-BlackHeart)
 
 <details>
 	<summary>:zap: Github Stats</summary>
 <p align="center">
-<a href="https://github.com/Deve-BlackHeart">
+<a href="https://github.com/Dev-BlackHeart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deve-BlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deve-BlackHeart&layout=compact&langs_count=8&theme=algolia"/>
 </a>
