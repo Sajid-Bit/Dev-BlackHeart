@@ -8,8 +8,8 @@
        source={{uri: 'https://github.com/DeveBlackHeart/DeveBlackHeart/blob/c6f18f52326f5e2390cb994d7abdafc85065cc5e/IMG%20GIF/Deve_BlackHeart.gif'}}
 height="250" style="border-radius:20px;"
 -->
-```bash
-> BlackHeart
+```zsh
+> Dev Black-Heart
 ```
 
 <!-- <a href="https://github.com/Dev-BlackHeart"><img align="left" src="https://github.com/Deve-BlackHeart/Deve-BlackHeart/blob/e7ae03bfc7e9aaa417fd8b0fd3dcf029c7bfee90/IMG%20GIF/Deve_BlackHeart.gif" width="360" height="250" style="border-radius:20px;" /></a> -->
@@ -200,11 +200,11 @@ BlackHeart = {
  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arashi-u&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)]()
 
 https://github-readme-stats-eight-theta.vercel.app/api?username=Deve-BlackHeart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
-[website]: https://github.com/DeveBlackHeart
+[website]: https://github.com/Dev-BlackHeart
 [twitter]: https://twitter.com/Deve_BlackHeart
 [youtube]: https://youtube.com/
 [linkedin]: https://www.linkedin.com/in/mohammed-khalil-b62525217
-[Telegram]: https://t.me/Deve_BlackHeart
+[Telegram]: https://t.me/Dev_BlackHeart
 [email]: developerblackheart@gmail.com
 -->
 
